@@ -1,0 +1,51 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Sample Title 1,Director 4,Canada,"January 31, 2021",2005,TV-14,169 min,Comedy,Sample Netflix content description.
+s2,Movie,Sample Title 2,Director 1,United States,"September 25, 2022",2023,TV-MA,102 min,Documentary,Sample Netflix content description.
+s3,Movie,Sample Title 3,Director 12,France,"March 25, 2020",2022,TV-14,132 min,Romance,Sample Netflix content description.
+s4,Movie,Sample Title 4,Director 6,South Korea,"September 28, 2022",2010,TV-14,102 min,Thriller,Sample Netflix content description.
+s5,Movie,Sample Title 5,Director 2,Japan,"April 06, 2022",2007,PG,152 min,Romance,Sample Netflix content description.
+s6,Movie,Sample Title 6,Director 2,France,"January 06, 2024",2019,TV-MA,145 min,Romance,Sample Netflix content description.
+s7,TV Show,Sample Title 7,Director 12,India,"February 27, 2020",2023,TV-MA,4 Seasons,Romance,Sample Netflix content description.
+s8,Movie,Sample Title 8,Director 7,South Korea,"February 18, 2019",2012,PG-13,156 min,Thriller,Sample Netflix content description.
+s9,Movie,Sample Title 9,Director 4,South Korea,"December 26, 2021",2016,TV-PG,162 min,Comedy,Sample Netflix content description.
+s10,Movie,Sample Title 10,Director 3,Spain,"September 29, 2020",2022,PG-13,109 min,Documentary,Sample Netflix content description.
+s11,TV Show,Sample Title 11,Director 14,United States,"July 27, 2020",2006,PG,7 Seasons,Romance,Sample Netflix content description.
+s12,Movie,Sample Title 12,Director 15,Japan,"May 12, 2024",2011,TV-14,158 min,Sci-Fi,Sample Netflix content description.
+s13,TV Show,Sample Title 13,Director 3,South Korea,"February 23, 2023",2025,TV-14,4 Seasons,Romance,Sample Netflix content description.
+s14,TV Show,Sample Title 14,Director 6,Canada,"June 24, 2022",2023,TV-14,8 Seasons,Comedy,Sample Netflix content description.
+s15,Movie,Sample Title 15,Director 11,United Kingdom,"September 19, 2019",2008,TV-PG,129 min,Comedy,Sample Netflix content description.
+s16,TV Show,Sample Title 16,Director 8,South Korea,"September 06, 2024",2017,R,1 Seasons,Comedy,Sample Netflix content description.
+s17,TV Show,Sample Title 17,Director 2,South Korea,"October 25, 2021",2025,PG-13,3 Seasons,Sci-Fi,Sample Netflix content description.
+s18,Movie,Sample Title 18,Director 13,United Kingdom,"August 13, 2023",2013,R,88 min,Romance,Sample Netflix content description.
+s19,Movie,Sample Title 19,Director 13,United Kingdom,"March 12, 2022",2009,R,174 min,Drama,Sample Netflix content description.
+s20,TV Show,Sample Title 20,Director 2,Japan,"March 21, 2018",2020,PG,4 Seasons,Drama,Sample Netflix content description.
+s21,Movie,Sample Title 21,Director 2,Spain,"November 19, 2018",2023,TV-MA,172 min,Action,Sample Netflix content description.
+s22,Movie,Sample Title 22,Director 3,South Korea,"March 01, 2024",2020,R,152 min,Crime,Sample Netflix content description.
+s23,Movie,Sample Title 23,Director 12,South Korea,"April 03, 2020",2022,PG-13,160 min,Thriller,Sample Netflix content description.
+s24,TV Show,Sample Title 24,Director 2,Canada,"January 24, 2023",2021,TV-14,2 Seasons,Thriller,Sample Netflix content description.
+s25,Movie,Sample Title 25,Director 4,Canada,"March 18, 2024",2023,TV-MA,84 min,Drama,Sample Netflix content description.
+s26,Movie,Sample Title 26,Director 14,Japan,"May 09, 2018",2007,TV-MA,140 min,Documentary,Sample Netflix content description.
+s27,TV Show,Sample Title 27,Director 9,United Kingdom,"May 27, 2020",2020,TV-PG,8 Seasons,Documentary,Sample Netflix content description.
+s28,TV Show,Sample Title 28,Director 2,India,"February 19, 2020",2018,TV-PG,7 Seasons,Thriller,Sample Netflix content description.
+s29,TV Show,Sample Title 29,Director 14,United States,"March 28, 2023",2018,TV-PG,2 Seasons,Drama,Sample Netflix content description.
+s30,TV Show,Sample Title 30,Director 4,Canada,"March 24, 2019",2015,TV-14,8 Seasons,Action,Sample Netflix content description.
+s31,TV Show,Sample Title 31,Director 8,Canada,"February 14, 2021",2010,TV-MA,8 Seasons,Comedy,Sample Netflix content description.
+s32,Movie,Sample Title 32,Director 14,United States,"January 24, 2024",2025,TV-MA,171 min,Documentary,Sample Netflix content description.
+s33,Movie,Sample Title 33,Director 8,Canada,"June 13, 2023",2018,PG-13,82 min,Action,Sample Netflix content description.
+s34,TV Show,Sample Title 34,Director 5,Spain,"May 19, 2022",2005,PG,7 Seasons,Sci-Fi,Sample Netflix content description.
+s35,Movie,Sample Title 35,Director 4,United States,"April 30, 2021",2011,R,169 min,Drama,Sample Netflix content description.
+s36,TV Show,Sample Title 36,Director 10,Spain,"July 25, 2018",2006,R,3 Seasons,Drama,Sample Netflix content description.
+s37,Movie,Sample Title 37,Director 10,India,"October 08, 2018",2010,TV-PG,105 min,Crime,Sample Netflix content description.
+s38,Movie,Sample Title 38,Director 10,United States,"October 05, 2020",2023,R,85 min,Crime,Sample Netflix content description.
+s39,TV Show,Sample Title 39,Director 11,Japan,"April 16, 2020",2013,TV-14,5 Seasons,Crime,Sample Netflix content description.
+s40,Movie,Sample Title 40,Director 8,Japan,"May 13, 2021",2025,TV-MA,76 min,Sci-Fi,Sample Netflix content description.
+s41,Movie,Sample Title 41,Director 4,South Korea,"January 12, 2024",2007,TV-14,119 min,Comedy,Sample Netflix content description.
+s42,Movie,Sample Title 42,Director 3,Spain,"March 13, 2021",2016,R,165 min,Romance,Sample Netflix content description.
+s43,Movie,Sample Title 43,Director 15,India,"May 11, 2021",2022,TV-14,108 min,Comedy,Sample Netflix content description.
+s44,Movie,Sample Title 44,Director 5,South Korea,"September 29, 2019",2022,R,101 min,Thriller,Sample Netflix content description.
+s45,Movie,Sample Title 45,Director 9,Spain,"December 17, 2020",2025,PG,81 min,Comedy,Sample Netflix content description.
+s46,TV Show,Sample Title 46,Director 1,Japan,"June 30, 2018",2013,TV-14,5 Seasons,Action,Sample Netflix content description.
+s47,TV Show,Sample Title 47,Director 9,United States,"October 18, 2022",2022,TV-MA,2 Seasons,Action,Sample Netflix content description.
+s48,Movie,Sample Title 48,Director 9,United Kingdom,"July 13, 2024",2016,PG-13,91 min,Drama,Sample Netflix content description.
+s49,TV Show,Sample Title 49,Director 15,Japan,"June 13, 2018",2016,TV-14,4 Seasons,Comedy,Sample Netflix content description.
+s50,TV Show,Sample Title 50,Director 10,United Kingdom,"July 23, 2022",2022,TV-14,3 Seasons,Action,Sample Netflix content description.
